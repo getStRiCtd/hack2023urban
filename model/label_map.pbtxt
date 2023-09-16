@@ -1,0 +1,14 @@
+item {
+  id: 1
+  name: 'window'
+}
+
+item {
+  id: 2
+  name: 'empty'
+}
+
+item {
+  id: 3
+  name: 'filled'
+}
